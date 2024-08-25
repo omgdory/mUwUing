@@ -1,0 +1,120 @@
+(o.o) 
+This is how you comment. Idk how commenting works.
+Do you just discard tokens and lexemes until you end the comment production?
+Shiiiiii
+(o.o) 
+
+(o.o) Will need a symbol table for variables. Not sure how to add functions? (o.o)
+(o.o) Needs a symbol table too but type checking is terrible. Let's not do that rn (o.o)
+(o.o) We not getting hired with this one :100: :fire: (o.o)
+
+(o.o) TODO
+Arithmetic:
+    Addition: Doneso
+    Subtraction: Doneso
+    Multiplication: Doneso
+    Division: Doneso
+    Modulus: Doneso
+    Increment: Doneso
+        Post-order: Yuh
+        Pre-order: Yuh 
+    Decrement: Doneso
+        Post-order: Yuh 
+        Pre-order: Yuh
+
+Stdio:
+    Printing: Doneso 
+    Input: Not done. Not sure how to handle? Guess C++ does that for us.
+
+Declarations/Data:
+    Datatypes: Doneso
+    Identifiers: Doneso
+    Constants: Doneso
+    Assignment: Doneso
+    Strings: Not doing rn. Strings are hard.
+
+Program Control:
+    Conditionals: Not doneso
+    Bodies: Doneso
+    Parentheses: Doneso (refer to main args)
+    Classes: Nope. This not an OOP language. Fuck you.
+    Includes: Not really sure how to do these, but could be fun.
+        You can simply just have it refer to files and translate them to boilerplate includes.
+        Not sure tho.
+
+Typechecking: :whar:
+    Arithmetic: Not doneso
+    Assignment: Not doneso
+    Printing: Not doneso
+    Conditionals: Not doneso
+
+(o.o)
+
+(o.o) Most readable language (o.o)
+
+(o.o) Datatypes will just use keywords until we can figure something else out (o.o)
+
+int main(>^.^)>void<(^.^<)(O.o)
+
+    (o.o) I would like to use this to denote returns but idk if encoding is valid. (o.o)
+    (o.o) (╯°□°）╯︵ ┻━┻ value; (o.o)
+    (o.o) Should we swap comments with the uneven eyes. We have to match otherwise? (o.o)
+    (o.o) Can probably use (>~.~)> Statement_List <(~.~<) to denote braces for a body (o.o)
+
+    (o.o) Declare a variable is just Datatype id [init_statement]; (o.o)
+    int zabinga = 3;
+    int sum;
+    int diff;
+    int product;
+    int dividend;
+    int mod;
+    int inc;
+    int dec;
+
+    (o.o) Simple addition instruction. (o.o)
+    sum (=^.^=) zabinga (+.+) 7; (o.o) should store 3 + 7 into sum (o.o)
+
+    (o.o) Simple multiplication instruction. (o.o)
+    product (=^.^=) zabinga (*.*) zabinga; (o.o) diff = 9 (o.o)
+
+    (o.o) Simple subtraction instruction. (o.o)
+    diff (=^.^=) 300 (-.-) zabinga; (o.o) diff = 297 (o.o)
+
+    (o.o) Simple division instruction. (o.o)
+    dividend (=^.^=) 1000 \(0.0)/ zabinga; (o.o) dividend = 333 (o.o)
+
+    (o.o) Simple modulus instruction. (o.o)
+    mod (=^.^=) 1000 (%~.~%) zabinga; (o.o) mod = 1 (o.o)
+
+    (o.o) 
+    For now I'm not allowing assignment with increment/decrement. That requires interesting logic.
+    You'll see why later on in 460, namely Phase 6. He handles it for us, but if you read it, it's rough.
+    Well it was for me at least. You have to enter a new state and handle rhs assignment? Iono
+    (o.o)
+
+    (o.o) Simple post increment instruction. (o.o)
+    zabinga(+^.^+);
+
+    (o.o) Simple pre increment instruction. (o.o)
+    (+^.^+)zabinga;
+
+    (o.o) Simple post decrement instruction. (o.o)
+    zabinga(-^.^-);
+
+    (o.o) Simple pre decrement instruction. (o.o)
+    (-^.^-)zabinga;
+
+    (o.o) Simple print instruction. (o.o)
+    (o.o) Note that it only takes a single argument. Not sure what to do here. (o.o)
+    (o.o) This seems a lot easier to handle I think? Concatenation is a BITCH. I never fully figured out how stringbuilder works. (o.o)
+    (o.o) Fuck phase 6. Stupid fucking state tracking (o.o)
+    (^o^) "Your mother is a w...onderful person, probably!\n"; 
+    (^o^) "Also here's the result from earlier: "; 
+    (^o^) zabinga; 
+    (^o^) " dabloons. Don't spend em all in one place. Or do. I'm not yo parent. Your actions will have consequences all the same.\n"; 
+    
+
+    (^.^) 0; (o.o) We will use semicolons to end statements. I'm not a masochist. (o.o)
+(o.O)
+
+(o.o) God help me this is cancer to type out (o.o)

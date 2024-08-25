@@ -1,0 +1,40 @@
+Can probably change this to a markdown file or something later on. Dunno.
+
+Anywho, the main issue I was having with the language was that it has a fairly simple
+structure in that you can parse it using a recursive descent parser. It should be LL(1) methinks.
+
+Having said that, what the FUCK is the language supposed to do? Computer inherently aren't very complex.
+
+That's their charm and purpose, after all. Anyways I have a rudimentary idea. It supports very simple
+branching conditions (god help us, these aren't simple), arithmetic, and variables.
+
+Refer to the simple program I wrote in uhhh SimpleProg1.muwu (i know, im not creative)
+We can translate it from our code to C++ or something. It's really fucking cool actually.
+I'll look more into that, but we can just make a state machine that sees a node of the parse tree
+and, into a C++ file, writes shrimple C++ code. More on that later, I have to think more about it.
+
+It can also output. We can add more faces for more functionality later. Shouldn't be too bad I think?
+
+NOTE: DANGLING ELSE SON OF A BITCH. WE ARE USING ELIFS TO DEAL WITH THAT. 
+Bracketing of conditional bodies WILL be daily :suscat:
+
+Will probably use a stack to handle arithmetic. Refer to java 1.0 documentation.
+Really intuitive thankfully. 2+3 => [..., 2, 3, +] -> [..., 5]
+
+We will set a default stack size of 50. I don't know how to run through code and dynamically
+set stack+registers. It's some NP complete BS or something. Idk. I tapped out of compilers at that point.
+
+I got distracted. Lost my train of thought.
+DATATYPES. IDK DATATYPES NOR HOW TO HANDLE THEM. Figure that out I guess. Can change it later.
+Use keywords for now
+
+Well my right arm and eye are on fire rn so imma just leave these notes here to further refine probably next week.
+We battling strokes with this one :zamn:
+Off to battle ze fish I gyo those damn hooligans :yay: 
+
+Most importantly tho, just do shtuff as you please and feel like; I tend to work
+in random bursts whenever something seems like fun. Only way I like to work.
+
+Gl and hf soldiers o7
+
+-----------Feel free to leave notes and comments down here so we can address em later-----------
