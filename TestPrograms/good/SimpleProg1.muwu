@@ -37,7 +37,7 @@ Program Control:
     Conditionals: Not doneso
     Bodies: Doneso
     Parentheses: Doneso (refer to main args)
-    Classes: Nope. This not an OOP language. Fuck you.
+    Classes: Nopers. No 
     Includes: Not really sure how to do these, but could be fun.
         You can simply just have it refer to files and translate them to boilerplate includes.
         Not sure tho.
@@ -88,8 +88,7 @@ int main(>^.^)>void<(^.^<)(O.o)
 
     (o.o) 
     For now I'm not allowing assignment with increment/decrement. That requires interesting logic.
-    You'll see why later on in 460, namely Phase 6. He handles it for us, but if you read it, it's rough.
-    Well it was for me at least. You have to enter a new state and handle rhs assignment? Iono
+    You'll see why later on in 460, namely Phase 6. He handles it for us thankfully.
     (o.o)
 
     (o.o) Simple post increment instruction. (o.o)
@@ -106,8 +105,7 @@ int main(>^.^)>void<(^.^<)(O.o)
 
     (o.o) Simple print instruction. (o.o)
     (o.o) Note that it only takes a single argument. Not sure what to do here. (o.o)
-    (o.o) This seems a lot easier to handle I think? Concatenation is a BITCH. I never fully figured out how stringbuilder works. (o.o)
-    (o.o) Fuck phase 6. Stupid fucking state tracking (o.o)
+    (o.o) This seems a lot easier to handle I think? Not shore. (o.o)
     (^o^) "Your mother is a w...onderful person, probably!\n"; 
     (^o^) "Also here's the result from earlier: "; 
     (^o^) zabinga; 
